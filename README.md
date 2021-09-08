@@ -1,4 +1,4 @@
-#Find the best Tv Series thanks to Python
+# Find the best Tv Series thanks to Python
 
 I wanted to follow the project about Tv Series and Movies, with one about videogames, but failing to find a good dataset I decided it was time to created one that could fit my needs. So thanks to a Firefox addon i was able to scrap data from Metacritic: in particular all of the 49 pages about the videogame avaible on PC. [https://www.metacritic.com/browse/games/score/metascore/all/pc]
 
